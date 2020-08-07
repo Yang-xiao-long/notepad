@@ -1,7 +1,5 @@
 # notepad
 
-![图片](http://pan-yz.chaoxing.com/preview/showpreview_498591521903857664.html?v=1596803094000)
-
 本文件夹是记录windows10 系统上Typora编辑的markdown文件
 
 主要是记录专业笔记，共享给各位网友。也防止电脑系统损坏后导致文件丢失。
