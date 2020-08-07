@@ -1,12 +1,12 @@
 # notepad
 
-![](http://pan-yz.chaoxing.com/preview/showpreview_498591521903857664.html?v=1596803094000)
+![图片](http://pan-yz.chaoxing.com/preview/showpreview_498591521903857664.html?v=1596803094000)
 
 本文件夹是记录windows10 系统上Typora编辑的markdown文件
 
 主要是记录专业笔记，共享给各位网友。也防止电脑系统损坏后导致文件丢失。
 
-在线预览时图片有问题，下载时请**.md**文件和**.assets**文件一起下载。
+在线预览时图片有问题，下载时请_.md_文件和_.assets_文件一起下载。
 
 网站导航：http://daohang.hellosmile.xin/
 
